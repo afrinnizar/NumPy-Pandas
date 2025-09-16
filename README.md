@@ -1,47 +1,38 @@
-NumPy & Pandas Repository
+# Numpy and Pandas
 
-This repository provides examples, tutorials, and projects using NumPy and Pandas, two of the most powerful Python libraries for numerical computation and data analysis.
+This repository contains my first experiments with **NumPy** and **Pandas** in Python.
+I created this repo to practice and understand the basics of **data manipulation, arrays, and data analysis** using these two powerful libraries.
 
-📌 Contents
+---
 
-NumPy Basics
+## 📚 What I Learned
 
-Creating arrays
+While working on this repository, I explored:
 
-Array indexing and slicing
+### **NumPy**
 
-Mathematical operations
+* Creating 1D and 2D arrays
+* Array operations (addition, subtraction, multiplication)
+* Basic statistical operations (mean, max, min)
+* Reshaping arrays
 
-Broadcasting
+### **Pandas**
 
-Pandas Basics
+* Creating **Series** and **DataFrames**
+* Reading data from CSV files
+* Selecting and filtering data
+* Performing basic operations like **sum, mean, describe()**
+* Handling missing data
 
-Series and DataFrames
+---
 
-Data import/export (CSV, Excel, JSON)
+## 📂 Repository Structure
 
-Data cleaning and preprocessing
-
-Grouping, merging, and joining
-
-Applied Examples
-
-Exploratory data analysis (EDA)
-📖 Learning Goals
-
-Understand how to manipulate numerical data using NumPy.
-
-Learn how to handle structured data using Pandas.
-
-Apply data analysis techniques for real-world datasets.
-
-🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repo and submit pull requests with new examples, tutorials, or fixes.
-
-📜 License
-
-This project is licensed under the MIT License.
-Data wrangling and transformation
-
-Simple visualizations with Pandas
+```
+numpy_and_pandas/
+│
+├── NumPy.ipynb      # My first experiments with NumPy
+├──Pandas.ipynb      # My first experiments with Pandas
+└── README.md                 # Project documentation
+```
+---
